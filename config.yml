@@ -1,0 +1,6 @@
+title: The Blog Of Food
+
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: jekyll-theme-architect
